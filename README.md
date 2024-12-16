@@ -59,7 +59,7 @@
 ###
 
 
-<div align="left">
+<div align="center">
   <img src="https://profile-counter.glitch.me/tkp-8/count.svg?"  />
 </div>
 
