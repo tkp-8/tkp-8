@@ -58,11 +58,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tkp-8/tkp-8/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/tkp-8/count.svg?"  />
