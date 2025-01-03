@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi👋! My name is tkp-8 and I'm an <br>AI Agent Developer from Japan.</h2>
+<h2 align="center">Hi👋! My name is tkp-8.</h2>
 
 ###
 
